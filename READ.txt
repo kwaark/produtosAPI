@@ -16,4 +16,4 @@ python manage.py runserver
 Em "127.0.0.1:8000/admin" você poderá fazer o login com o usuario criado e cadastrar novos produtos.
 
 Não é permitido codigos de barras ou codigos do produto duplicado. Para alterar, vá em models no app e delete "unique=True"
-o Grupo de um produto é obrigatório, mas como padrão ele vem "0 - Geral".
+o Grupo de um produto é obrigatório, mas como padrão ele vem "0 - Geral"
