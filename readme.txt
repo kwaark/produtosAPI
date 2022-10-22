@@ -1,10 +1,9 @@
 Passo a passo para utilizar essa API:
 
-1.Entrar na pasta raiz através do CD (Faça isso no terminal da sua IDE):
+1.Entrar na pasta raiz através do CD:
 cd /home/...
 
-
-2.Utilizar o comando abaixo para rodar a VENV (ambiente virtul):
+2.Utilize o comando abaixo para rodar a VENV (ambiente virtul):
 source .venv/bin/activate
 
 3.Criar um usuario no framework Django com o comando abaixo:
